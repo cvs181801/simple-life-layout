@@ -106,6 +106,8 @@ p {
 .blogTitle {
     color: var(--navy);
     font-size: 1.2rem;
+    text-align: left;
+    padding: 1.2em 1em 1.2em 1em;
 }
 
 .text {
@@ -169,9 +171,10 @@ img {
     padding: 1.2em 1em 1.2em 1em;
 }
 
-footer {
+footer p {
     background-color: var(--navy);
     color: var(--grey);
+    font-family: var(--ff-secondary);
 }
 
 /* nav bar media queries */
