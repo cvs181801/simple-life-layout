@@ -148,6 +148,7 @@ img {
 
 .blogsSection {
     display: flex;
+    flex-direction: column;
 }
 
 /* nav bar media queries */
