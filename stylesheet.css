@@ -11,6 +11,7 @@
 body {
     font-family: var(--ff-primary);
     margin: 0;
+    background-color: white;
 }
 
 /* HEADER with Nav BAR */
@@ -86,6 +87,7 @@ nav li {
     margin-left: 2em;
 }
 
+/* BLOG BODY STYLING */
 
 .title {
     color: var(--navy);
