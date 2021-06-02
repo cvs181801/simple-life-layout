@@ -128,6 +128,10 @@ img {
     font-family: var(--ff-secondary);
 }
 
+.thumbNails {
+    font-size: 1.5rem;
+}
+
 .sidebarChild {
     border: 1.5em solid lightgray;
     padding: 1.5em;
@@ -157,6 +161,16 @@ img {
 .innerBlogText {
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
+}
+
+.heroText {
+    text-align: left;
+    padding: 1.2em 1em 1.2em 1em;
+}
+
+footer {
+    background-color: var(--navy);
+    color: var(--grey);
 }
 
 /* nav bar media queries */
