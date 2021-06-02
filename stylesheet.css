@@ -22,7 +22,7 @@ header {
 }
 
 .container {
-    border: 2px magenta solid;
+   /*border: 2px magenta solid;*/
    width: 90%;
    max-width: 900px;
    /*margin: 0 auto; this centered our container div!*/
@@ -30,7 +30,7 @@ header {
 
 .container-nav {
    
-   border: 2px magenta solid; /*this allowed me to see the border of the container container-nav div so I could center the content */
+   /*border: 2px magenta solid; this allowed me to see the border of the container container-nav div so I could center the content */
    display: flex;
    justify-content: space-between; 
    margin-left: 6em;
@@ -108,7 +108,7 @@ p {
 }
 
 .blogTitle {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     color: var(--navy);
     font-size: 1.2rem;
     text-align: left;
@@ -143,7 +143,7 @@ img {
 }
 
 .large-container {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     display: flex;
     background-color: white;
 }
@@ -159,7 +159,7 @@ img {
 }
 
 .sidebarChild {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     border: 1.5em solid var(--white);
     padding: 1em 2em 2em 2em;
     margin-top: 6em;
@@ -169,7 +169,7 @@ img {
 .inner-container,
 .hero,
 .subsection {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     padding: 3em;
 }
 
@@ -178,7 +178,7 @@ img {
 }
 
 .aboutMeText {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     font-family: var(--ff-primary);
     color: var(--navy);
     padding: 1em 1em 1.2em 0;
@@ -196,7 +196,7 @@ img {
 
 .innerBlogText,
 .text {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     text-align: left;
     padding: 0 1em 1.2em 0em;
     width: 30em;
@@ -204,7 +204,7 @@ img {
 }
 
 .heroText {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     text-align: left;
     padding: 1.2em 1em 1.2em 0;
 }
