@@ -22,6 +22,7 @@ header {
 }
 
 .container {
+    border: 2px magenta solid;
    width: 90%;
    max-width: 900px;
    /*margin: 0 auto; this centered our container div!*/
@@ -29,7 +30,7 @@ header {
 
 .container-nav {
    
-   /*border: 2px magenta solid; this allowed me to see the border of the container container-nav div so I could center the content */
+   border: 2px magenta solid; /*this allowed me to see the border of the container container-nav div so I could center the content */
    display: flex;
    justify-content: space-between; 
 }
@@ -124,6 +125,7 @@ img {
 }
 
 .large-container {
+    border: 2px magenta solid;
     display: flex;
 }
 
@@ -138,6 +140,7 @@ img {
 }
 
 .sidebarChild {
+    border: 2px magenta solid;
     border: 1.5em solid var(--white);
     padding: 2em;
 
@@ -146,10 +149,12 @@ img {
 .inner-container,
 .hero,
 .subsection {
+    border: 2px magenta solid;
     padding: 3em;
 }
 
 .aboutMeText {
+    border: 2px magenta solid;
     font-family: var(--ff-primary);
     color: var(--navy);
 }
@@ -166,12 +171,14 @@ img {
 
 .innerBlogText,
 .text {
+    border: 2px magenta solid;
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
     width: 30em;
 }
 
 .heroText {
+    border: 2px magenta solid;
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
 }
