@@ -146,6 +146,10 @@ img {
     display: flex;
 }
 
+.subsection img {
+    float: left;
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
