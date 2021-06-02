@@ -142,6 +142,10 @@ img {
     color: var(--navy);
 }
 
+.blogsSection {
+    display: flex;
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
