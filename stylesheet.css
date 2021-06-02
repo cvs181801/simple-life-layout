@@ -96,7 +96,13 @@ p {
     margin: 0;
 }
 
+.blogTitle {
+    color: var(--navy);
+}
 
+.text {
+    color: var(--grey);
+}
 
 /* nav bar media queries */
 
