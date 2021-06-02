@@ -159,7 +159,8 @@ img {
 .sidebarChild {
     border: 2px magenta solid;
     border: 1.5em solid var(--white);
-    padding: 2em;
+    padding: 1em 2em 2em 2em;
+    margin-top: 6em;
 
 }
 
