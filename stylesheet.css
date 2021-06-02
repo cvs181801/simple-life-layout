@@ -105,6 +105,7 @@ p {
 
 .blogTitle {
     color: var(--navy);
+    font-size: 2rem;
 }
 
 .text {
@@ -150,6 +151,11 @@ img {
 .subsection {
     display: flex;
     flex-direction: row;
+}
+
+.innerBlogText {
+    text-align: left;
+    padding: 1.2em 1em 1.2em 1em;
 }
 
 /* nav bar media queries */
