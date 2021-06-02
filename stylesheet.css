@@ -120,7 +120,8 @@ img {
     display: flex;
 }
 
-.thumbNails {
+.thumbNails,
+.sidebarChild {
     color: var(--navy);
     font-family: var(--ff-secondary);
 }
