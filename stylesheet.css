@@ -112,7 +112,7 @@ p {
     color: var(--navy);
     font-size: 1.2rem;
     text-align: left;
-    padding: 0 1em 1.2em 1em;
+    padding: 0 1em 1.2em 0em;
     margin-top: 0;
     margin-left: 0;
 }
@@ -195,7 +195,7 @@ img {
 .text {
     border: 2px magenta solid;
     text-align: left;
-    padding: 0 1em 1.2em 1em;
+    padding: 0 1em 1.2em 0em;
     width: 30em;
     margin-top: 0;
     margin-left: 0;
