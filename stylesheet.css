@@ -120,6 +120,11 @@ p {
     margin-top: 0;
 }
 
+.innerHeroText {
+    margin-left: 0;
+    text-align: left;
+}
+
 img {
     width: 100%;
     height: auto;
