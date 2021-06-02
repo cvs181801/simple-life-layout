@@ -1,0 +1,120 @@
+ 
+ :root {
+    --white: #f8f8f8;
+    --grey: #707070;
+    --blue: #1792D2;
+    --navy: #143774;
+    --ff-primary: 'Lora', serif;
+    --ff-secondary: 'Ubuntu', sans-serif;
+}
+
+body {
+    font-family: var(--ff-primary);
+    margin: 0;
+}
+
+/* HEADER with Nav BAR */
+
+header {
+    padding: 2em 0;
+    background-color: var(--white);
+}
+
+.container {
+   width: 90%;
+   max-width: 900px;
+   margin: 0 auto; /*this centered our container div!*/
+}
+
+.container-nav {
+   
+   /*border: 2px magenta solid; this allowed me to see the border of the container container-nav div so I could center the content */
+   display: flex;
+   justify-content: space-between; 
+}
+
+h1 {
+    font-size: 2.375rem;
+    margin: 0;
+}
+
+nav li {
+    /*color: var(--grey);
+    font-size: 1rem;
+    font-size: .75rem; 
+    width: auto;*/
+    margin-left: 2em;
+}
+
+
+a {
+    color: var(--grey);
+}
+
+nav a {
+    text-decoration: none;
+    padding: .25em 0;
+    font-weight: 700;
+}
+
+nav a:hover,
+nav a:focus {
+    background-color: #FFDEAC;
+    transition: all .9s ease;
+    border-radius: .2rem;
+    border-bottom: 1px solid #707070;
+    /*opacity: rgba(255, 222, 172, 0.6); this didn't work after removing background color. why? */
+}
+
+.current-page {
+   border-bottom: 1px solid #707070;
+}
+
+.current-page:hover {
+   background-color: var(--white);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    justify-content: center;
+}
+
+nav li {
+    margin-left: 2em;
+}
+
+
+.title {
+    color: var(--navy);
+}
+
+p {
+    color: var(--blue);
+    margin: 0;
+}
+
+
+
+/* nav bar media queries */
+
+@media (max-width: 675px) {
+   
+   .container-nav {
+       flex-direction: column;
+   }
+   
+   header {
+       text-align: center;
+   }
+   
+   nav ul {
+       flex-direction: column;
+   }
+   
+   nav li {
+       margin: .5em 0;     
+   }
+}
