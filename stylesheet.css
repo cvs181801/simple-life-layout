@@ -218,7 +218,8 @@ img {
 
 .thumbnailPostSections {
     padding: 1em;
-
+    font-family: var(--ff-primary);
+    color: var(--navy);
 }
 
 
