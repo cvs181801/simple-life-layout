@@ -212,6 +212,11 @@ img {
     padding: 1.2em 1em 1.2em 0;
 }
 
+.sidebarChild {
+    width: 12em;
+}
+
+
 footer p {
     background-color: var(--navy);
     color: var(--grey);
