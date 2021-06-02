@@ -24,7 +24,7 @@ header {
 .container {
    width: 90%;
    max-width: 900px;
-   margin: 0 auto; /*this centered our container div!*/
+   /*margin: 0 auto; this centered our container div!*/
 }
 
 .container-nav {
@@ -110,13 +110,11 @@ p {
     font-size: 1.2rem;
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
-    margin: 0 auto;
 }
 
 .text {
     color: var(--grey);
     font-size: .9rem;
-    margin: 0 auto;
 }
 
 img {
