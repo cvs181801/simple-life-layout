@@ -210,6 +210,7 @@ footer p {
     color: var(--grey);
     font-family: var(--ff-secondary);
     height: 2em;
+    padding: 1em;
 }
 
 /* nav bar media queries */
