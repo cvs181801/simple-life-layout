@@ -40,7 +40,7 @@ h1 {
 }
 
 .subtitle {
-    font-family: var(ff-secondary);
+    font-family: var(--ff-secondary);
 }
 
 nav li {
