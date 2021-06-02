@@ -158,7 +158,8 @@ img {
     flex-direction: row;
 }
 
-.innerBlogText {
+.innerBlogText,
+.text {
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
 }
