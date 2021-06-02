@@ -137,6 +137,11 @@ img {
     padding: 2em;
 }
 
+.aboutMeText {
+    font-family: var(--ff-primary);
+    color: var(--navy);
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
