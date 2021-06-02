@@ -174,7 +174,7 @@ img {
     border: 2px magenta solid;
     font-family: var(--ff-primary);
     color: var(--navy);
-    padding: 0 1em 1.2em 0;
+    padding: 1em 1em 1.2em 0;
 }
 
 .blogsSection {
