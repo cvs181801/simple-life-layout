@@ -105,11 +105,12 @@ p {
 
 .blogTitle {
     color: var(--navy);
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
 
 .text {
     color: var(--grey);
+    font-size: .9rem;
 }
 
 img {
