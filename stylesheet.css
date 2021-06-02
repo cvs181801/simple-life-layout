@@ -116,6 +116,16 @@ img {
     display: flex;
 }
 
+.thumbNails {
+    color: var(--navy);
+    font-family: var(--ff-secondary);
+}
+
+.sidebarChild {
+    border: 1.5em solid lightgray;
+    padding: 1.5em;
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
