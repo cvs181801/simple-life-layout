@@ -115,6 +115,7 @@ p {
 }
 
 .blogTitleHero {
+    padding: 0 1em 1.2em 0;
     margin-left: 0;
     text-align: left;
     color: var(--navy);
@@ -130,6 +131,7 @@ p {
 .innerHeroText {
     margin-left: 0;
     text-align: left;
+    font-size: .9rem;
     color: var(--grey);
 }
 
