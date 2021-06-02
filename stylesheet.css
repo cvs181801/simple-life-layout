@@ -45,6 +45,7 @@ h1 {
 .subtitle {
     font-family: var(--ff-secondary);
     text-align: left;
+    letter-spacing: .2rem;
 }
 
 nav li {
@@ -54,6 +55,7 @@ nav li {
     width: auto;*/
     margin-left: 2em;
     font-family: var(--ff-secondary);
+    letter-spacing: .2rem;
 }
 
 
@@ -152,6 +154,7 @@ img {
 .sidebarChild {
     color: var(--navy);
     font-family: var(--ff-secondary);
+    letter-spacing: .2rem;
 }
 
 .thumbNails {
