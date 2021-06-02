@@ -148,7 +148,7 @@ img {
 
 .subsection {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 /* nav bar media queries */
