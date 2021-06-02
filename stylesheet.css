@@ -206,6 +206,10 @@ img {
     margin-top: 0;
 }
 
+.text a {
+    color: var(--blue);
+}
+
 .heroText {
     /*border: 2px magenta solid;*/
     text-align: left;
@@ -222,11 +226,10 @@ img {
     color: var(--navy);
 }
 
-.thumbnailBlogTitle {
+.thumbnailBlogTitle a {
     font-family: var(--ff-primary);
     color: var(--navy);
 }
-
 
 footer p {
     background-color: var(--navy);
