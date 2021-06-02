@@ -146,8 +146,8 @@ img {
     display: flex;
 }
 
-.subsection img {
-    float: left;
+.blogsSection {
+    display: flex;
 }
 
 /* nav bar media queries */
