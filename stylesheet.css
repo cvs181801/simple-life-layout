@@ -117,6 +117,8 @@ p {
 .blogTitleHero {
     margin-left: 0;
     text-align: left;
+    color: var(--navy);
+    font-size: 1.2rem;
 }
 
 .text {
@@ -139,6 +141,7 @@ img {
 .large-container {
     border: 2px magenta solid;
     display: flex;
+    background-color: white;
 }
 
 .thumbNails,
