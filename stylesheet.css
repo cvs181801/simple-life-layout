@@ -126,8 +126,10 @@ img {
     padding: 1.5em;
 }
 
-.inner-container {
-    padding: 1.5em;
+.inner-container,
+.hero,
+.subsection {
+    padding: 2em;
 }
 
 /* nav bar media queries */
