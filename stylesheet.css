@@ -137,7 +137,7 @@ img {
 }
 
 .sidebarChild {
-    border: 1.5em solid lightgray;
+    border: 1.5em solid var(--grey);
     padding: 1.5em;
 }
 
