@@ -33,6 +33,7 @@ header {
    border: 2px magenta solid; /*this allowed me to see the border of the container container-nav div so I could center the content */
    display: flex;
    justify-content: space-between; 
+   margin-left: 6em;
 }
 
 h1 {
