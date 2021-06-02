@@ -67,9 +67,9 @@ nav a {
 
 nav a:hover,
 nav a:focus {
-    background-color: #FFDEAC;
+    /*background-color: #FFDEAC;*/
     transition: all .9s ease;
-    border-radius: .2rem;
+    /*border-radius: .2rem;*/
     border-bottom: 1px solid #707070;
     /*opacity: rgba(255, 222, 172, 0.6); this didn't work after removing background color. why? */
 }
@@ -115,7 +115,6 @@ p {
 .text {
     color: var(--grey);
     font-size: .9rem;
-    width: auto;
 }
 
 img {
