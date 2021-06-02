@@ -107,6 +107,7 @@ p {
 }
 
 .blogTitle {
+    border: 2px magenta solid;
     color: var(--navy);
     font-size: 1.2rem;
     text-align: left;
