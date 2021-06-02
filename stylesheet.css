@@ -115,6 +115,7 @@ p {
 .text {
     color: var(--grey);
     font-size: .9rem;
+    margin-top: 0;
 }
 
 img {
