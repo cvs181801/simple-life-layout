@@ -144,6 +144,7 @@ img {
 
 .blogsSection {
     display: flex;
+    flex-direction: column;
 }
 
 .subsection {
