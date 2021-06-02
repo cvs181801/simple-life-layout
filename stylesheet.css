@@ -153,12 +153,12 @@ img {
 .thumbNails,
 .sidebarChild {
     color: var(--navy);
-    font-family: var(--ff-secondary);
-    letter-spacing: .2rem;
+    font-family: var(--ff-secondary);  
 }
 
 .thumbNails {
     font-size: 1.5rem;
+    letter-spacing: .2rem;
 }
 
 .sidebarChild {
