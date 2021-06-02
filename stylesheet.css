@@ -137,8 +137,9 @@ img {
 }
 
 .sidebarChild {
-    border: 1.5em;
-    padding: 1.5em solid var(--white);
+    border: 1.5em solid var(--white);
+    padding: 2em;
+
 }
 
 .inner-container,
