@@ -37,10 +37,12 @@ header {
 h1 {
     font-size: 2.375rem;
     margin: 0;
+    text-align: left;
 }
 
 .subtitle {
     font-family: var(--ff-secondary);
+    text-align: left;
 }
 
 nav li {
