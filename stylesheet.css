@@ -222,6 +222,11 @@ img {
     color: var(--navy);
 }
 
+.thumbnailBlogTitle {
+    font-family: var(--ff-primary);
+    color: var(--navy);
+}
+
 
 footer p {
     background-color: var(--navy);
