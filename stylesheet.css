@@ -110,11 +110,13 @@ p {
     font-size: 1.2rem;
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
+    margin: 0 auto;
 }
 
 .text {
     color: var(--grey);
     font-size: .9rem;
+    margin: 0 auto;
 }
 
 img {
@@ -177,6 +179,7 @@ footer p {
     background-color: var(--navy);
     color: var(--grey);
     font-family: var(--ff-secondary);
+    height: 2em;
 }
 
 /* nav bar media queries */
