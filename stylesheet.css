@@ -24,7 +24,6 @@ header {
 .container {
    width: 90%;
    max-width: 900px;
-   margin-left: auto;
    /*margin: 0 auto; this centered our container div!*/
 }
 
@@ -116,6 +115,7 @@ p {
 .text {
     color: var(--grey);
     font-size: .9rem;
+    width: auto;
 }
 
 img {
