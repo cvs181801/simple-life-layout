@@ -32,6 +32,7 @@ header {
    /*border: 2px magenta solid; this allowed me to see the border of the container container-nav div so I could center the content */
    display: flex;
    justify-content: space-between; 
+   padding: auto;
 }
 
 h1 {
@@ -166,7 +167,7 @@ img {
 .text {
     text-align: left;
     padding: 1.2em 1em 1.2em 1em;
-    width: 20em;
+    width: 50em;
 }
 
 .heroText {
