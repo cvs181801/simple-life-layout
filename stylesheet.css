@@ -126,6 +126,10 @@ img {
     padding: 1.5em;
 }
 
+.innerContainer {
+    padding: 1.5em;
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
