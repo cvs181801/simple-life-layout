@@ -146,7 +146,7 @@ img {
     display: flex;
 }
 
-.blogsSection, .subsection {
+.subsection {
     display: flex;
     flex-direction: column;
 }
