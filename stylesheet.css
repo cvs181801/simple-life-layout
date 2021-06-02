@@ -104,6 +104,11 @@ p {
     color: var(--grey);
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 /* nav bar media queries */
 
 @media (max-width: 675px) {
