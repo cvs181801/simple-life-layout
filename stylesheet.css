@@ -23,7 +23,6 @@ header {
 
 .container {
    /*border: 2px magenta solid;*/
-   border: 2px magenta solid;
    width: 90%;
    max-width: 100rem;
    /*margin: 0 auto; this centered our container div!*/
@@ -34,7 +33,6 @@ header {
    display: flex;
    justify-content: space-between; 
    margin-left: 6em;
-   border: 2px magenta solid;
 }
 
 h1 {
@@ -58,7 +56,7 @@ nav li {
     font-family: var(--ff-secondary);
     letter-spacing: .2rem;
     text-align: right;
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     margin-left: 2em;
     margin-right: 0;
 }
@@ -92,7 +90,7 @@ nav a:focus {
 }
 
 nav ul {
-    border: 2px magenta solid;
+    /*border: 2px magenta solid;*/
     list-style: none;
     display: flex;
     flex-direction: row;
