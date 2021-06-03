@@ -35,6 +35,7 @@ header {
    justify-content: space-between; 
    margin-left: 6em;
    border: 2px magenta solid;
+   width: auto;
 }
 
 h1 {
