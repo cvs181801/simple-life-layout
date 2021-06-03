@@ -279,5 +279,7 @@ footer p {
        justify-content: center;
    }
 
-   
+   .subsection {
+    flex-direction: column;
+}
 }
