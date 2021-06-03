@@ -273,7 +273,8 @@ footer p {
        flex-direction: column;
    }
 
-   .main-sidebar {
+   .main-sidebar,
+   .sidebarChild {
        justify-content: center;
    }
 }
