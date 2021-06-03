@@ -278,4 +278,9 @@ footer p {
    .sidebarChild {
        justify-content: center;
    }
+
+   .innerBlogText,
+   .text {
+       width: 0 auto;
+   }
 }
