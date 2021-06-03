@@ -25,7 +25,7 @@ header {
    /*border: 2px magenta solid;*/
    border: 2px magenta solid;
    width: 90%;
-   max-width: 50rem;
+   max-width: 100rem;
    /*margin: 0 auto; this centered our container div!*/
 }
 
@@ -35,7 +35,6 @@ header {
    justify-content: space-between; 
    margin-left: 6em;
    border: 2px magenta solid;
-   width: 60em;
 }
 
 h1 {
