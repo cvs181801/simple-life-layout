@@ -278,7 +278,7 @@ footer p {
 
    .main-sidebar,
    .sidebarChild {
-       justify-content: center;
+       margin: 0 auto;
    }
 
    .subsection {
