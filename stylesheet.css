@@ -24,7 +24,7 @@ header {
 .container {
    /*border: 2px magenta solid;*/
    width: 90%;
-   max-width: 900px;
+   max-width: 50rem;
    /*margin: 0 auto; this centered our container div!*/
 }
 
@@ -243,8 +243,13 @@ footer p {
 
 @media (max-width: 700px) {
    
+    .container {
+        margin: 0 auto;
+    }
+    
    .container-nav {
        flex-direction: column;
+       
    }
    
    header {
