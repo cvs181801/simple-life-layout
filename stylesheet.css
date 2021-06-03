@@ -175,6 +175,10 @@ img {
     padding: 3em;
 }
 
+.hero {
+    border-bottom: 1px solid var(-grey);
+}
+
 .innerBlogText {
     margin-left: 1em;
 }
