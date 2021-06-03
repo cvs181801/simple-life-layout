@@ -175,7 +175,7 @@ img {
     padding: 3em;
 }
 
-.hero {
+.heroText {
     border-bottom: 1px solid var(--grey);
 }
 
@@ -229,6 +229,7 @@ img {
     padding: 1em;
     font-family: var(--ff-primary);
     color: var(--navy);
+    border-bottom: var(--grey);
 }
 
 .thumbnailBlogTitle a {
