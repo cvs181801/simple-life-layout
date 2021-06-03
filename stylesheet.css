@@ -55,6 +55,7 @@ nav li {
     margin-left: 2em;
     font-family: var(--ff-secondary);
     letter-spacing: .2rem;
+    text-align: right;
 }
 
 
@@ -66,7 +67,6 @@ nav a {
     text-decoration: none;
     padding: .25em 0;
     font-weight: 700;
-    margin-right: 0;
 }
 
 nav a:hover,
