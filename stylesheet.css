@@ -246,13 +246,18 @@ footer p {
     .container {
         margin: 0 auto;
     }
-    
+
    .container-nav {
        flex-direction: column;
        
    }
    
    header {
+       text-align: center;
+   }
+
+   h1,
+   .subtitle {
        text-align: center;
    }
    
