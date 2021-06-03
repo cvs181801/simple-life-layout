@@ -209,7 +209,8 @@ img {
     margin-top: 0;
 }
 
-.text a {
+.text a,
+.innerHeroText a {
     color: var(--blue);
 }
 
