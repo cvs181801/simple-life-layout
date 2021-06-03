@@ -55,7 +55,7 @@ nav li {
     margin-left: 2em;
     font-family: var(--ff-secondary);
     letter-spacing: .2rem;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 
