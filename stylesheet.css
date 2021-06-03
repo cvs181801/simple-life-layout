@@ -272,4 +272,8 @@ footer p {
    .large-container {
        flex-direction: column;
    }
+
+   .main-sidebar {
+       justify-content: center;
+   }
 }
