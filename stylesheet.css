@@ -241,7 +241,7 @@ footer p {
 
 /* nav bar media queries */
 
-@media (max-width: 675px) {
+@media (max-width: 400px) {
    
    .container-nav {
        flex-direction: column;
@@ -257,5 +257,9 @@ footer p {
    
    nav li {
        margin: .5em 0;     
+   }
+
+   .large-container {
+       flex-direction: row;
    }
 }
