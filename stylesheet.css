@@ -201,7 +201,7 @@ img {
     border: 2px magenta solid;
     text-align: left;
     padding: 0 1em 1.2em 0em;
-    width: 30em;
+    /*width: 30em;*/
     margin-top: 0;
 }
 
@@ -279,8 +279,5 @@ footer p {
        justify-content: center;
    }
 
-   .innerBlogText,
-   .text {
-       width: 0 auto;
-   }
+   
 }
