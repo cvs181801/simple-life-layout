@@ -260,6 +260,6 @@ footer p {
    }
 
    .large-container {
-       flex-direction: row;
+       flex-direction: column;
    }
 }
