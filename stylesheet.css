@@ -176,7 +176,7 @@ img {
 }
 
 .hero {
-    border-bottom: 1px solid var(-grey);
+    border-bottom: 1px solid var(--grey);
 }
 
 .innerBlogText {
