@@ -96,6 +96,7 @@ nav ul {
 
 nav li {
     margin-left: 2em;
+    margin-right: 0;
 }
 
 /* BLOG BODY STYLING */
@@ -290,5 +291,5 @@ footer p {
 
    .subsection {
     flex-direction: column;
-}
+   }
 }
