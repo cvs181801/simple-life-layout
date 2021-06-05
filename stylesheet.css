@@ -265,6 +265,7 @@ img {
     object-fit: cover;
     width: 100%;
     object-position: bottom;
+    max-height: 100px;
 }
 
 .innerHeroText,
