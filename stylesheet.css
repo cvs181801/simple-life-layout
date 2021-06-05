@@ -261,7 +261,7 @@ img {
     display: flex;
 }
 
-.heroImgAboutMe {
+.heroImgAboutMe img {
     object-fit: cover;
     width: 100%;
 }
