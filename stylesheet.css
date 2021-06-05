@@ -190,6 +190,7 @@ img {
     font-family: var(--ff-primary);
     color: var(--navy);
     padding: 1em 1em 1.2em 0;
+    line-height: 1.8;
 }
 
 .blogsSection {
@@ -209,7 +210,7 @@ img {
     padding: 0 1em 1.2em 0em;
     /*width: 30em;*/
     margin-top: 0;
-    line-height: 1.5;
+    line-height: 1.8;
 }
 
 .text a,
@@ -272,7 +273,7 @@ img {
 .innerHeroText,
 .blueSubtitle {
     margin: 1em 0 1em 0;
-    line-height: 1.5;
+    line-height: 1.8;
 }
 
 footer p {
