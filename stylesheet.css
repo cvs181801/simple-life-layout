@@ -271,7 +271,7 @@ img {
 .innerHeroText,
 .blueSubtitle {
     margin: 1em 0 1em 0;
-    line-height: 1em;
+    line-height: 1.5;
 }
 
 footer p {
