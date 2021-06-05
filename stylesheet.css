@@ -264,7 +264,8 @@ img {
     display: flex;
 }
 
-.heroImgAboutMe {
+.heroImgAboutMe,
+heroImgWithClock {
     object-fit: cover;
     width: 100%;
     max-height: 850px;
