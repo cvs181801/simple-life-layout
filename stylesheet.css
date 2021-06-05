@@ -224,7 +224,6 @@ img {
 .sidebarChild {
     /*border: 2px magenta solid;*/
     width: 15em;
-    border-bottom: var(--grey);
 }
 
 .thumbnailPostSections {
