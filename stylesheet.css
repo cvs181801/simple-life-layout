@@ -212,7 +212,8 @@ img {
 }
 
 .text a,
-.innerHeroText a {
+.innerHeroText a,
+.aboutMeText a {
     color: var(--blue);
 }
 
@@ -247,7 +248,11 @@ img {
 .blueSubtitle {
     color: var(--blue);
     font-family: var(--primary);
-    font-size: 1.5rem;
+    font-size: 1rem;
+}
+
+.innerHeroText strong {
+    font-family: var(--ff-secondary);
 }
 
 footer p {
