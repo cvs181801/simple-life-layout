@@ -255,6 +255,10 @@ img {
     font-family: var(--ff-secondary);
 }
 
+.large-container-blog {
+    display: flex;
+}
+
 footer p {
     background-color: var(--navy);
     color: var(--grey);
