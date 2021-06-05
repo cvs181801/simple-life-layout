@@ -330,4 +330,8 @@ footer p {
    .subsection {
     flex-direction: column;
    }
+
+   .large-container-blog {
+       flex-direction: column;
+   }
 }
