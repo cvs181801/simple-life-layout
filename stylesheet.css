@@ -264,6 +264,7 @@ img {
 .heroImgAboutMe {
     object-fit: cover;
     width: 100%;
+    object-position: bottom;
 }
 
 .innerHeroText,
