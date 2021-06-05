@@ -239,6 +239,10 @@ img {
     color: var(--navy);
 }
 
+.main-sidebar {
+    padding: 2em;
+}
+
 footer p {
     background-color: var(--navy);
     color: var(--grey);
