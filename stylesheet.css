@@ -262,9 +262,10 @@ img {
 }
 
 .heroImgAboutMe {
-    object-fit: contain;
+    object-fit: cover;
     width: 100%;
     max-height: 850px;
+    object-position: 100% 0;
 }
 
 .innerHeroText,
