@@ -2,6 +2,7 @@
  :root {
     --white: #f8f8f8;
     --grey: #707070;
+    --light-grey: #EBEBEB;
     --blue: #1792D2;
     --navy: #143774;
     --ff-primary: 'Lora', serif;
@@ -241,6 +242,12 @@ img {
 
 .main-sidebar {
     padding: 0 3em 3em 3em;
+}
+
+.blueSubtitle {
+    color: var(--blue);
+    font-family: var(--primary);
+    font-size: 1.5rem;
 }
 
 footer p {
