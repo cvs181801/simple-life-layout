@@ -86,10 +86,6 @@ nav a:focus {
    border-bottom: 1px solid #707070;
 }
 
-.current-page:hover {
-   background-color: var(--white);
-}
-
 nav ul {
     /*border: 2px magenta solid;*/
     list-style: none;
