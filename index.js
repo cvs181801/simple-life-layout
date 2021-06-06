@@ -3,5 +3,5 @@
 const currentPage = document.querySelector("nav-selector");
 
 currentPage.addEventListener("click", event => {
-    currentPage.addClass('.current-page');
+    currentPage.addClass("current-page");
 });
