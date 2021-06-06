@@ -87,6 +87,10 @@ nav a:focus {
    background-color: red;
 }
 
+#home-selector {
+    background-color: red;
+}
+
 nav ul {
     /*border: 2px magenta solid;*/
     list-style: none;
