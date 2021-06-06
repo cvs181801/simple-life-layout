@@ -88,7 +88,7 @@ nav a:focus {
 }
 */
 
-nav ul li {
+#home-selector {
     background-color: red;
 }
 
