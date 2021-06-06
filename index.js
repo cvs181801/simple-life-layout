@@ -1,7 +1,7 @@
 //keep the current page selected 
 
-const currentPage = document.getElementById("nav-selector");
+const currentPage = document.querySelector("nav-selector");
 
-currentPage.addEventListener("click", function() {
+currentPage.addEventListener("click", event => {
     currentPage.addClass('current-page');
 });
