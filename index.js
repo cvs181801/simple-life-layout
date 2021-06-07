@@ -36,4 +36,15 @@
 
 //try again
 
-const navigationBar = Array.from(document.querySelectorAll('#navbar>ul>li'));
+//const navigationBar = Array.from(document.querySelectorAll('#navbar>ul>li'));
+
+//try again
+
+const currentLocation = location.href;
+const menuItem = document.querySelectorAll('a');
+const menuLength = menuItem.length;
+for(let i = 0; i < menuLength; i++ ) {
+   if(menuItem[i].href === currentLocation) {
+       menuItem[i].className = "active";
+   }
+}

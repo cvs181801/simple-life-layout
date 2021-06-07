@@ -88,10 +88,9 @@ nav a:focus {
 }
 */
 
-#home-selector {
-    background-color: red;
+.active {
+    background-color: #FFDEAC;
 }
-
 nav ul {
     /*border: 2px magenta solid;*/
     list-style: none;
